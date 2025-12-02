@@ -4,9 +4,9 @@ Application web de segmentation automatique des pédicules vertébraux pour assi
 
 ## 🎥 Démonstration Vidéo
 
-[![Video Demo](Capture.png)](https://vimeo.com/1103411454)
+[![Video Demo](Capture.png)](https://vimeo.com/1142176332)
 
-**[▶️ Voir la démonstration complète](https://vimeo.com/1103411454)**
+**[▶️ Voir la démonstration complète](https://vimeo.com/1142176332)**
 
 ## 🎯 Projet
 
